@@ -23,6 +23,11 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+**/
+
+created by Froylan Valencia on 1/30/16
+*/
+
 public class Login extends AppCompatActivity implements View.OnClickListener {
 
     Button bLogin;
