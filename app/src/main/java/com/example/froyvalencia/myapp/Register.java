@@ -13,6 +13,11 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
+/**
+
+created by Froylan Valencia on 1/30/16
+*/
+
 public class Register extends AppCompatActivity implements View.OnClickListener{
 
     Button bRegister;
